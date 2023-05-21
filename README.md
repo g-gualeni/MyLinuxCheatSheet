@@ -11,6 +11,9 @@ My personal collection of Linux commands
 
 # Git
 `gh repo clone`: this is the command for GitHub CLI interface to clone a project
+`git commit -m"My Commit message" -a`: This is the add and commit command
+`git push`: once done, push the modifications to the server
+
 
 
 
