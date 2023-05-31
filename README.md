@@ -15,6 +15,7 @@ My personal collection of Linux commands
 `git status`: this is the command that can tell you if there are some modifications in the folder
 
 `git add .`: don't forget this command or new files will not be in the new commit
+
 `git commit -m"My Commit message" -a`: This is the add and commit command
 
 `git push`: once done, push the modifications to the server
