@@ -8,13 +8,18 @@ My personal collection of Linux commands
 # Qt Installation
 `sudo apt-get install build-essential libgl1-mesa-dev`: this is the command line to install all necessary packages
 
+To be able to modify a widget, you need to force QtCreator to use Wayland. So open the folder
+
+`/home/<username>/Qt/Tools/QtCreator/bin`
+
+in the terminal, then run this command:  
+`$ export QT_QPA_PLATFORM=wayland`
+
+then run QtCreator using:
+`./qtcreator`
+  
+Get the info from here:  
 https://forum.qt.io/topic/144831/recent-upgrade-to-ubuntu-23-04-breaks-qt-designer/6
-Rrm.majd 10 giorni fa
-@JonB
-
-Adding "export QT_QPA_PLATFORM=wayland" to my .profile fixed the problem and everything is fine now.
-
-this worked for me, i can now drag and drop in the editor without issues. thanks.
 
 
 # Git
