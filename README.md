@@ -34,6 +34,19 @@ https://forum.qt.io/topic/144831/recent-upgrade-to-ubuntu-23-04-breaks-qt-design
 `git push`: once done, push the modifications to the server
 
 
+`git fetch`: scarico tutti gli aggiornamenti dal server
+
+`git pull`: prendo dal server gli aggiornamenti del ramo corrente e passo all'ultimo commit
+
+`git banch`: vedo tutti i branch disponibili e qual'è quello corrente
+
+`git checkout <branch>`: passo al branch selezionato 
+
+
+
+
+
+
 
 
 
