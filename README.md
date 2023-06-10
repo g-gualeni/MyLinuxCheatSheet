@@ -42,6 +42,11 @@ https://forum.qt.io/topic/144831/recent-upgrade-to-ubuntu-23-04-breaks-qt-design
 
 `git checkout <branch>`: passo al branch selezionato 
 
+`git push -u origin <branch>`: Se voglio fare un push di un branch che esiste solo localmente, non sul server
+
+
+
+
 
 
 
