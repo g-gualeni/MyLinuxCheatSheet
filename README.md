@@ -39,7 +39,7 @@ The command can be copied from GitHub Repository page
 
 `git pull`: prendo dal server gli aggiornamenti del ramo corrente e passo all'ultimo commit
 
-`git banch`: vedo tutti i branch disponibili e qual'è quello corrente
+`git banch -a`: list all vedo branches, also the remote ones, and I can see the associated local branch
 
 `git checkout <branch>`: passo al branch selezionato 
 
