@@ -23,7 +23,7 @@ https://forum.qt.io/topic/144831/recent-upgrade-to-ubuntu-23-04-breaks-qt-design
 
 
 # Git
-`gh repo clone`: this is the command for GitHub CLI interface to clone a project
+`gh repo clone`: this is the command for GitHub CLI interface to clone a project. The command can be copied from GitHub Repository page
 
 `git status`: this is the command that can tell you if there are some modifications in the folder
 
