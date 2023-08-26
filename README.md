@@ -41,6 +41,9 @@ The command can be copied from GitHub Repository page
 
 `git banch -a`: list all vedo branches, also the remote ones, and I can see the associated local branch
 
+'git switch -c <localbranch> <origin/RemoteBranch>: this is the command to switch and checkout a remote branch 
+
+
 `git checkout <branch>`: passo al branch selezionato 
 
 `git push -u origin <branch>`: Se voglio fare un push di un branch che esiste solo localmente, non sul server
