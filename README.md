@@ -39,10 +39,11 @@ The command can be copied from GitHub Repository page
 
 `git pull`: prendo dal server gli aggiornamenti del ramo corrente e passo all'ultimo commit
 
-`git banch -a`: list all vedo branches, also the remote ones, and I can see the associated local branch
+`git banch -a`: list all ovvero vedo tutti i branches, anche quelli remoti, e posso vedere anche i corrispondenti rami locali
 
 `git switch -c <localbranch> <origin/RemoteBranch>`: this is the command to switch and checkout a remote branch 
 
+`git log`: serve per vedere tutti i messaggi di commit in ordine cronologico inverso
 
 `git checkout <branch>`: passo al branch selezionato 
 
