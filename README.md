@@ -50,6 +50,9 @@ The command can be copied from GitHub Repository page
 `git push -u origin <branch>`: Se voglio fare un push di un branch che esiste solo localmente, non sul server
 
 
+# Ubuntu nuts
+Right click sucks! Try to do it 2 times and fast
+
 
 
 
