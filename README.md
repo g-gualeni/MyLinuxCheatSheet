@@ -6,7 +6,9 @@ My personal collection of Linux commands
 `sudo apt upgrade`: upgrade (move to new software version)
 
 # Qt Installation
-`sudo apt-get install build-essential libgl1-mesa-dev`: this is the command line to install all necessary packages
+`sudo apt-get install build-essential libgl1-mesa-dev`
+
+this is the command line to install all necessary packages
 
 To be able to modify a widget, you need to force QtCreator to use Wayland. So open the folder
 
@@ -21,6 +23,13 @@ then run QtCreator using:
 Get the info from here:  
 https://forum.qt.io/topic/144831/recent-upgrade-to-ubuntu-23-04-breaks-qt-designer/6
 
+If you get an error like this:
+![image](https://github.com/g-gualeni/MyLinuxCheatSheet/assets/2716458/961da1d4-635d-47a9-8aa7-8b31c41f873b)
+
+https://stackoverflow.com/questions/77725761/from-6-5-0-xcb-cursor0-or-libxcb-cursor0-is-needed-to-load-the-qt-xcb-platform 
+then use:
+
+`sudo apt-get install libxcb-cursor0`
 
 # Git
 `gh repo clone`: this is the command for GitHub CLI interface to clone a project. 
